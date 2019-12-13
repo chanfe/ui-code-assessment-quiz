@@ -1,0 +1,31 @@
+.button {
+    background-color: #1f70dd;
+    border: none;
+    color: white;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 20px 2px;
+    cursor: pointer;
+  }
+
+form {
+  text-align: left;
+  padding: 10px 150px;
+}
+
+form h3{
+  font-weight: normal;
+  font-size: 24px;
+}
+
+form div{
+  padding: 5px 5px;
+}
+
+form input{
+  font-size:14pt;
+}
+
